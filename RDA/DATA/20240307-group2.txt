@@ -1,0 +1,11 @@
+sample	group
+P	H
+Q	H
+S	H
+W	LD
+X	LD
+Y	LD
+Z	HD
+Z3	HD
+Z4	HD
+Z6	HD
